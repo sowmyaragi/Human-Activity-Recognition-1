@@ -691,11 +691,6 @@ To cite my work, point to the URL of the GitHub repository:
 
 My code is available under the [MIT License](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/blob/master/LICENSE). 
 
-## Connect with me
-
-- https://ca.linkedin.com/in/chevalierg 
-- https://twitter.com/guillaume_che
-- https://github.com/guillaume-chevalier/
 
 
 
